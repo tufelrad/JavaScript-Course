@@ -1,5 +1,5 @@
-# js-hindi-youtube
-A code repo for javascript series at Chai aur code youtube channel
+# JavaScript Course For Free
+A code repo for javascript series 
 
 ---
 
